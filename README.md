@@ -13,7 +13,7 @@
 
 - Run following commands in sequence
 
-    - git clone https://github.com/atta-ul-mohsin/php-laravel-nginx-mysql.git
+    - git clone https://github.com/atta-ul-mohsin/SIO-TASK.git
 
     - cd into cloned dir
 
